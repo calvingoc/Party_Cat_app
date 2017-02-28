@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Party Cat</string>
+    <string name="drinking_game_key" translatable="false">meowDrinkingGame</string>
+    <string name="drinking_game_on">Drinking Game On</string>
+    <string name="drinking_game_off">Drinking Game Off</string>
+    <string name="drinking_game_title">Drinking Game Mode</string>
+
+    <string name="party_key" translatable="false">meowPartyMode</string>
+    <string name="party_on">Party Mode</string>
+    <string name="party_off">Pregame Mode</string>
+    <string name="party_title">Party or Pregame</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="purchase">Buy Extras</string>
+    <string name="settings_title">Settings</string>
+    <string name="party_toast">Please Drink Responsibly</string>
+
+    <string name="premium_key" translatable="false">meowPremKey</string>
+    <string name="key" translatable="false">cJ2pJktlZekbScsdk27dlkLKv+R35gbWdeqXRWlYMnJWt/6R3JIokXPV4hTxhRYQfvYLC+k41Vq2AFD9GHgfEqg5/Q3ZDGz0CZM0MQfLsP6cniUnRxfqq+ub8cgZFRiQ3rI7Ts65orsVrwIDAQAB</string>
+    <string name="prem_not_aval">Premium Content May Not Be Available</string>
+    <string name="purchase_fail">Purchase Failed, Please Try Again</string>
+    <string name="banner_ad_unit_id" translatable="false">ca-app-pub-9578879157437430/4908862901</string>
+    <string name="adMob_app_id" translatable="false">ca-app-pub-9578879157437430~3072202908</string>
+    <!-- Drinking Game Strings -->
+
+    <string name="pass">Pass it!</string>
+    <string name="reverse">Reverse it!</string>
+    <string name="keep">Keep it!</string>
+    <string name="anyone">Pass it to anyone!</string>
+    <string name="one_drink">Take 1 drink</string>
+    <string name="take">Take </string>
+    <string name="drinks"> drinks!</string>
+    <string name="finish">Finish your drink!</string>
+    <string name="chug">Chug until the next player drinks!</string>
+
+</resources>

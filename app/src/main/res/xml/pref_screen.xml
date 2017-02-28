@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/drinking_game_key"
+        android:summaryOff="@string/drinking_game_off"
+        android:summaryOn="@string/drinking_game_on"
+        android:title="@string/drinking_game_title"/>
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/party_key"
+        android:summaryOn="@string/party_on"
+        android:summaryOff="@string/party_off"
+        android:title="@string/party_title"
+        android:enabled="false"/>
+</PreferenceScreen>
